@@ -25,4 +25,4 @@ Contributions are welcome! Please fork the repository, create a new branch, make
 
 ## Contact
 
-For any suggestions, please contact me at [your-email@example.com](mailto:your-email@example.com).
+For any suggestions, please contact me at [aaron-lyy@outlook.com](mailto:aaron-lyy@outlook.com).
